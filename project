@@ -1,1 +1,4 @@
-echo "hello devops"
+#! /bin/bash
+
+echo "hello devops
+"
